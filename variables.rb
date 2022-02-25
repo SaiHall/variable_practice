@@ -6,3 +6,7 @@ dinner = "Leftover chicken and rice"
 str_roll = 20
 con_roll = 8
 dex_roll = 15
+
+ice_resist = 0.75
+pois_resist = 0.5
+fire_weak = 2.0
